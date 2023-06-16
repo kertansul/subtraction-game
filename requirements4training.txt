@@ -1,0 +1,8 @@
+numpy
+absl-py
+easydict
+pyyaml
+tqdm
+sqlite3
+torch >= 2.0.0
+torchrl == 0.1.1
